@@ -1,0 +1,12 @@
+.button-div {
+  display: "flex" !important;
+  justify-content: "center" !important;
+  align-items: "center";
+}
+
+.button {
+  width: "200px";
+  height: "50px";
+  background: "#00BCD4";
+  border: "none";
+}
