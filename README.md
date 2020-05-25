@@ -13,10 +13,12 @@ cordova plugin `cordova:com.razorpay.cordova@1.4.10`  is already added to the pr
 
 if you want to add or remove the plugin consider running the below commands.
 
-To add razorpay-cordova plugin run below command.
+To add razorpay-cordova plugin run thecommand.
+
 `meteor add cordova:com.razorpay.cordova@1.4.10`
 
-To remove razorpay-cordova plugin run below command
+To remove razorpay-cordova plugin run the command
+
 `meteor remove cordova:com.razorpay.cordova`
 
 After add/remove cordova plugin in project  please run the command `./.meteor/local` to start with fresh build.
