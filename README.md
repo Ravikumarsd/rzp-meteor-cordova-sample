@@ -13,7 +13,7 @@ cordova plugin `cordova:com.razorpay.cordova@1.4.10`  is already added to the pr
 
 if you want to add or remove the plugin consider running the below commands.
 
-To add razorpay-cordova plugin run thecommand.
+To add razorpay-cordova plugin run the command.
 
 `meteor add cordova:com.razorpay.cordova@1.4.10`
 
