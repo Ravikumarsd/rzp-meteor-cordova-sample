@@ -8,6 +8,7 @@ steps to run the project.
 
 
 Note:
+
 cordova plugin `cordova:com.razorpay.cordova@1.4.10`  is already added to the project.
 
 if you want to add or remove the plugin consider running the below commands.
