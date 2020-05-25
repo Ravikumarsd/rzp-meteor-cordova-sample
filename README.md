@@ -1,0 +1,1 @@
+# rzp-meteor-cordova-sample
