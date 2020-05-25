@@ -1,4 +1,4 @@
-steps to run the project.
+Steps to run the project.
 
 1. install meteor by running the script ===> `./install-meteor.sh`
 2. to install the app on Android run the script ===> `./run-android-app.sh`
