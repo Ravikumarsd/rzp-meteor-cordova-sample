@@ -1,8 +1,8 @@
 Steps to run the project.
 
 1. install meteor by running the script ===> `./install-meteor.sh`
-2. to run the project on Android run the script ===> `./run-android-app.sh`
-3.  to run the project on IOS run the script ===> `./run-ios-app.sh`
+2. to run the project on Android execute the script ===> `./run-android-app.sh`
+3.  to run the project on IOS execute the script ===> `./run-ios-app.sh`
 
 
 
