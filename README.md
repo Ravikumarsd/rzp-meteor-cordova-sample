@@ -21,4 +21,4 @@ To remove razorpay-cordova plugin run the command
 
 `meteor remove cordova:com.razorpay.cordova`
 
-After add/remove cordova plugin in project  please run the command `./.meteor/local` to start with fresh build.
+After add/remove cordova plugin please run the command `./.meteor/local` to start with fresh build.
